@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+    height: 600px;
+}
+
+.movie-container {
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.individual-movie-reviews {
+    padding: 2rem;
+    margin: 2rem;
+}
+
+Card {
+    max-width: 600px;
+}
+
+.individual-review {
+    margin-top: .5rem;
+}
